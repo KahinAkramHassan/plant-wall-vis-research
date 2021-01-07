@@ -1,0 +1,3 @@
+,Interface,Actuators,AdditionalParameters,SoftwareUsed,VisualizationMethods,LiveOrHistorical,Interest,CustomizedApplication,Location
+3,Both,Water Pump,"Humidity, Water tank level",Native/custom application,I don't know,Live data,for the moment we need only to control if the system is operating correctly,control via bluethoot for the solenoid valves,Italy
+16,Both,"Fan Speed, Water Pump, Lamps, irrigation Timers and Flow rates ","Temperature, Humidity, Water tank level, Leaf color (via a camera)",one of the many systems we use :-  NAAVA walls have their own system ,Tables,"Live data, Historical data","Flow Rates of Irrigation , Water levels in tanks, Photos of Foliage recording overall appearance",,USA

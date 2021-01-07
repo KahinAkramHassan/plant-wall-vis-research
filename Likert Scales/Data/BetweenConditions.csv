@@ -1,0 +1,19 @@
+Timestamp,ID,Method,Graph-intuitive,Graph-find-correct-info,Interaction-understand,Interaction-quick
+6/22/2020 13:13:16,04,Line Graph,5,5,Zoom,Zoom
+6/22/2020 13:22:38,04,Silhouette Graph,5,5,Zoom,Zoom
+6/22/2020 13:34:28,04,Horizon Graph,4,4,Zoom,Zoom
+6/22/2020 14:59:04,05,Horizon Graph,2,2,Brush,Brush
+6/22/2020 15:13:48,05,Line Graph,3,3,Lika,Lika
+6/22/2020 15:33:19,05,Silhouette Graph,4,4,Lika,Lika
+6/23/2020 8:08:20,06,Silhouette Graph,5,5,Zoom,Brush
+6/23/2020 8:20:04,06,Horizon Graph,5,5,Brush,Brush
+6/23/2020 8:33:11,06,Line Graph,4,5,Zoom,Lika
+6/23/2020 13:26:37,07,Line Graph,3,4,Zoom,Zoom
+6/23/2020 13:49:21,07,Silhouette Graph,3,3,Zoom,Zoom
+6/23/2020 14:15:10,07,Horizon Graph,2,2,Zoom,Zoom
+8/4/2020 13:30:00,08,Horizon Graph,4,4,Brush,Brush
+8/4/2020 13:42:11,08,Line Graph,5,4,Zoom,Zoom
+8/4/2020 13:54:13,08,Silhouette Graph,3,4,Zoom,Zoom
+8/14/2020 9:37:17,03,Silhouette Graph,3,4,Zoom,Zoom
+8/14/2020 9:54:37,03,Horizon Graph,2,3,Zoom,Zoom
+8/14/2020 10:06:12,03,Line Graph,4,4,Zoom,Zoom
